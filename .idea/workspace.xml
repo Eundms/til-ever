@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c429ccb6-5f53-47c6-acac-7d39ec5d7e13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/1. 객체지향특징.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/1.0. Library_Framework_Solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/1.1. 전략패턴.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/1.2. DI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/10. 모듈과 패키지.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/11. Data Type.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/2. 파이썬메서드종류.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/2.1. bound호출 vs unbound호출.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/2.2. ==과 is.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/2.3. Accessor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/3. 속성과 특수 속성.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/4. 초기화 메서드와 소멸자.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/4.1. Garbage Collection.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/5. 클래스를 이용해서 호출할 수 있는 메서드.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/5.1. @decorator.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/6. __slots__.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/7. private 멤버와 property.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/8. inheritance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/9. 추상.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/day03.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/templatemethod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c429ccb6-5f53-47c6-acac-7d39ec5d7e13" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
