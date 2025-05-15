@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c429ccb6-5f53-47c6-acac-7d39ec5d7e13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day06/script.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/add_blob.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/image/dangun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/script.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/use_mariadb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lecture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lecture.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/리눅스개요.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
